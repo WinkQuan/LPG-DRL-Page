@@ -1,0 +1,56 @@
+{
+  "teaser": {
+    "source": "images/teaser/lpg_drl_teaser.pdf",
+    "source_sha256": "1368f761f2cee92c06e27a4541514aa32e091aafd6dec10e85c1bbf0dfae67a8",
+    "width": 1600,
+    "height": 800
+  },
+  "framework": {
+    "source": "images/framework_redesigned/lpg_drl_framework.pdf",
+    "source_sha256": "bd98e90f784f3162647ff169b5bbd0a705043106aa003558714ff65516330c08",
+    "width": 1600,
+    "height": 929
+  },
+  "local-prior": {
+    "source": "images/local_apf_guidance.pdf",
+    "source_sha256": "ab19ec4e9e1e30133d379cb2f285d2bb51f1a110ed58a0430b6c2efcf6fcf015",
+    "width": 1600,
+    "height": 1153
+  },
+  "reward-design": {
+    "source": "images/reward_redesigned/lpg_drl_reward_single_column.pdf",
+    "source_sha256": "197001a65b30da89c1d625858aed5d2d1b375e1d96ba04930b39429c78bbfdd6",
+    "width": 1600,
+    "height": 1344
+  },
+  "training-reward": {
+    "source": "images/reward_curve.pdf",
+    "source_sha256": "44e4ef942126755448cc4295808978d2bc911e8e47bc6b928b89675961766e19",
+    "width": 1600,
+    "height": 1120
+  },
+  "training-success": {
+    "source": "images/success_rate_curve.pdf",
+    "source_sha256": "c95e853d7c36640a4c9313112c0da5d5d048260e9565eedec5268c711237478b",
+    "width": 1600,
+    "height": 1120
+  },
+  "trajectory-offroad": {
+    "source": "images/topdown_trajectory_comparison_off_road.pdf",
+    "source_sha256": "a536a8232103cc0b06c7f65c43d209d9a6b8f4c9b89572a3515d44ebf728770e",
+    "width": 1600,
+    "height": 894
+  },
+  "trajectory-flat": {
+    "source": "images/topdown_trajectory_comparison_flat_land.pdf",
+    "source_sha256": "e5a420345a489f6dcd97f5a202458e95ea45a3c49e07795d36d917d00ac69bd5",
+    "width": 1600,
+    "height": 894
+  },
+  "trajectory-obstacle-free": {
+    "source": "images/topdown_trajectory_comparison_without_obstacle.pdf",
+    "source_sha256": "20d2db5e19cd180ddf09a1235a7be421d9f9d397505d2ebdfbb37241020d2ea7",
+    "width": 1600,
+    "height": 894
+  }
+}
